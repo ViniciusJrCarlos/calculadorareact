@@ -1,0 +1,29 @@
+body {
+  background-color: #2d3436;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  background: linear-gradient(135deg, (255, 255, 255, 0.2), (255, 255, 255, 0));
+
+  padding: 16px;
+}
+.App {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.calc-wrapper {
+
+  background-color: rgb(150, 150, 150);
+  width: 400px;
+  border-radius: 4px;
+
+}
+
+.row {
+
+  display: flex;
+
+}
